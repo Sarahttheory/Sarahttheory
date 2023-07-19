@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
     <h1>Hi, I'm Sarah</h1>
-    <h3>Php developer</h3>
+    <h3>Full-Stack Php developer</h3>
 </div>
 
 <div id="socials" align="center">
