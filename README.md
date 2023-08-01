@@ -10,6 +10,9 @@
     <a href="https://www.threads.net/@sarahttheory">
         <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
     </a>
+    <a href="https://stackoverflow.com/users/17978442/saraht">
+        <img src="https://img.shields.io/badge/Stack Overflow-000000?style=for-the-badge&logo=Stack Overflow&logoColor=white">
+    </a>
 </div>
 
 ### About me
