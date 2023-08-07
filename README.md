@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi, I'm Sarah</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Sarah&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
     <h3>Full-Stack Php developer</h3>
 </div>
 
@@ -15,31 +15,39 @@
     </a>
 </div>
 
-### About me
-- 🍑 I am currently working on a CRM system
-- 🍉 I am currently learning **Laravel,YII2**
-- 🍇 Learn about my work experience from my [CV](https://drive.google.com/file/d/1HUcnwfiRkW5MqxpuU_HSUHmz1MYlEA9c/view?usp=drive_link)
-- 🍓 How to contact me: [telegram](https://t.me/Sarahtheory)
-- 🥝 Real name: Ann
-- 🍍 Interesting fact: I speak English
+<div id="socials" align="center">
+    <h3>About me</h3>
+</div>
 
-### Languages and tools
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/composer.svg" alt="rahuldkjain" height="40" width="40" /></a>
-### My stat
+- 🎐 I am currently working on a CRM system
+- 🧃 I am currently learning **Symfony**
+- 🍥 Learn about my work experience from  my [CV](https://drive.google.com/file/d/1HUcnwfiRkW5MqxpuU_HSUHmz1MYlEA9c/view?usp=drive_link)
+- 🍙 How to contact me: [telegram](https://t.me/Sarahtheory)
+- 🐸 Real name: Ann
+- ✨ Interesting fact: I speak English
+
+<div id="socials" align="center">
+    <h3>Languages and tools</h3>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="php" width="40" height="40"/></a> 
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="php" width="40" height="40"/></a>
+        <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg" title="php" width="40" height="40"/></a>
+</div>
+
+<div id="socials" align="center">
+    <h3>My stat</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarahttheory&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarahttheory&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarahttheory&exclude=ShaderLab&theme=transparent) 
-          
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarahttheory&exclude=ShaderLab&theme=transparent)
+
+</div>
 
                          
           
