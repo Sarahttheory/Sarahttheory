@@ -21,7 +21,7 @@
 
 - 🎐 I am currently working on a CRM system
 - ☄️I am currently learning **Symfony**
-- 🍥 Learn about my work experience from  my [CV](https://drive.google.com/file/d/1HUcnwfiRkW5MqxpuU_HSUHmz1MYlEA9c/view?usp=drive_link)
+- 🍥 Learn about my work experience from  my [CV](https://drive.google.com/file/d/1d99qzIaVO5ho3A4K2IV4gSZ_2HzSTxQD/view?usp=sharing)
 - 🍙 How to contact me: [telegram](https://t.me/Sarahtheory)
 - 💙 Real name: Ann
 - 🍦 Interesting fact: I speak English
